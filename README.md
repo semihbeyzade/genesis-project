@@ -1,3 +1,3 @@
 # nascency-project
 
-- [Demo:](https://semihbeyzade.github.io/nascency-project/#portfolio)
+- [Demo](https://semihbeyzade.github.io/nascency-project/#portfolio)
